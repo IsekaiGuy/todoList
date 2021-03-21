@@ -1,0 +1,23 @@
+<%- include('header'); -%>
+
+<body>
+
+    <div class="box" id="heading">
+            <h1><%= whatADay %></h1>
+    </div>
+
+    <div class="box">
+        <% for (let i=0; i<TODO.length; i++) { %>
+            <div class="item">
+                <input type="checkbox">
+                <p><%= TODO[i] %></p>
+            </div>
+        <% } %>
+        
+        <form class="item" action="/" method="POST">
+            <input type="text" name="input" placeholder="toDo" autocomplete="off">
+            <button type="submit" name="btn" value= <%= whatADay %> >+</button>
+        </form>
+    </div>
+</body>
+</html>
