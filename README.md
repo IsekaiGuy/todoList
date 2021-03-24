@@ -6,7 +6,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-![Alt text](css/To Do List.png?raw=true "ToDo")
+![Alt text](https://github.com/IsekaiGuy/todoList/blob/main/public/css/To%20Do%20List.png?raw=true?raw=true "ToDo")
 
 ## About Project
 <p>
