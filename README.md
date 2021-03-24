@@ -6,7 +6,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-![Alt text](/public/css/To Do List.png?raw=true "ToDo")
+![Alt text](/css/To Do List.png?raw=true "ToDo")
 
 ## About Project
 <p>
