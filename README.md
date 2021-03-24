@@ -6,7 +6,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-![Alt text](/css/To Do List.png?raw=true "ToDo")
+![Alt text](css/To Do List.png?raw=true "ToDo")
 
 ## About Project
 <p>
@@ -15,6 +15,7 @@ To do list: can dynamically create new pages, save posts in the database and del
 
 ## Frameworks used
 <ul>App, has been built using:
+
 <li>NodeJs</li>
 <li>EJS</li>
 <li>Mongoose</li>
