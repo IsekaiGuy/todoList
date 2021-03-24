@@ -13,12 +13,14 @@
 To do list: can dynamically create new pages, save posts in the database and delete posts, using checkbox. 
 </p>
 
-## Frameworks used
+## Frameworks Used
 <ul>App, has been built using:
 <br>
   <br>
 <li>NodeJs</li>
 <li>EJS</li>
+<li>Express</li>
+<li>Lodash</li>
 <li>Mongoose</li>
 <li>MongoDB</li>
 </ul>
